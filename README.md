@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [freeSource](https://github.com/NikhilCode12/freeSource)
 
-- 🌱 I’m currently learning **Kubernetes,MongoDB**
+- 🌱 I’m currently learning **Kubernetes,Solidity,NextJS**
 
 - 👨‍💻 All of my projects are available at [https://nikhilcode12.github.io/](https://nikhilcode12.github.io/)
 
