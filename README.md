@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sharma_nikh12" target="blank"><img src="https://img.shields.io/twitter/follow/sharma_nikh12?logo=twitter&style=for-the-badge" alt="sharma_nikh12" /></a> </p>
 
-- 🔭 I’m currently working on [freeSource](https://github.com/NikhilCode12/freeSource)
+- 🔭 I’m currently working on [keep-it-here](https://github.com/NikhilCode12/keep-it-here)
 
-- 🌱 I’m currently learning **Kubernetes,Solidity,NextJS**
+- 🌱 I’m currently learning **Kubernetes,framer-motion,AWS**
 
 - 👨‍💻 All of my projects are available at [https://nikhilcode12.github.io/](https://nikhilcode12.github.io/)
 
