@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilcode12" alt="nikhilcode12" /></a> </p>
 
+<p align="left"> <a href="https://github.com/nikhilCode12" target="blank"><img src="https://img.shields.io/github/nikhilCode12?logo=github&style=for-the-badge" alt="nikhilCode12" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/sharma_nikh12" target="blank"><img src="https://img.shields.io/twitter/follow/sharma_nikh12?logo=twitter&style=for-the-badge" alt="sharma_nikh12" /></a> </p>
 
 - 🔭 I’m currently working on [keep-it-here](https://github.com/NikhilCode12/keep-it-here)
