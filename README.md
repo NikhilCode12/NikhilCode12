@@ -6,7 +6,7 @@
 
 # 🖐 Current Status:
 
-- 🔭 I’m currently working on [keep-it-here](https://github.com/NikhilCode12/keep-it-here)
+- 🔭 I’m currently working on [JusticeTrail](https://github.com/NikhilCode12/JusticeTrail)
 
 - 🌱 I’m currently learning **Kubernetes,framer-motion,AWS**
 
