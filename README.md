@@ -6,7 +6,7 @@
 
 # 🖐 Current Status:
 
-- 🔭 I’m currently working on [Nexty-Chatbot](https://github.com/NikhilCode12/Nexty)
+- 🔭 I’m currently working on [ecoImpact](https://github.com/NikhilCode12/ecoImpact)
 
 - 🌱 I’m currently learning **Kubernetes,framer-motion,AWS**
 
