@@ -1,22 +1,18 @@
 [![](https://visitcount.itsvg.in/api?id=nikhil12&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Let's connect and Learn in Public</h3> 
+<h3 align="center">Let's connect...</h3> 
 
 
 # 🖐 Current Status:
 
-- 🔭 I’m currently working on [ecoImpact](https://github.com/NikhilCode12/ecoImpact)
+- 🌱 I’m currently learning **Spring Boot - Java, MVC, Microservices**
 
-- 🌱 I’m currently learning **Kubernetes,framer-motion,AWS**
-
-- 👨‍💻 All of my projects are available at [https://nikhilcode12.github.io/](https://nikhilcode12.github.io/)
-
-- 💬 Ask me about **Web Development or DSA or Chess**
+- 💬 Ask me about **Software Engineering/DSA/Chess**
 
 - 📫 How to reach me **sharmanikhil12jv@gmail.com**
 
-- ⚡ Fun fact **I don't do drugs!**
+- ⚡ Fun fact **I am an easy going person.**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NikhilCode12&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
